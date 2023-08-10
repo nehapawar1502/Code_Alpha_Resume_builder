@@ -1,0 +1,18 @@
+/* #cv-form{
+    display: none;
+} */
+#cv-template {
+    display: none;
+}
+
+/* CV Template */
+.myimg {
+    border-radius: 50%;
+     width: 280px; 
+    /* padding :20px*/
+}
+
+.background {
+    background-color: rgba(56, 3, 3, 0.753);
+    color: white;
+}
